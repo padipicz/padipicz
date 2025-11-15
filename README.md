@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет, я Дима 👋
 
-<!--
-**padipicz/padipicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент, который изучает программирование и data science. Люблю Python, математику и делать проекты, которые приносят пользу людям.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Чем я занимаюсь
+
+- 🐍 Изучаю **Python** и пишу учебные проекты
+- 📊 Интересуюсь **анализом данных**, простыми ML-моделями
+- 📚 Разбираюсь в алгоритмах и структурах данных
+- 🧪 Учусь писать чистый и понятный код
+
+---
+
+## 🧰 Технологии и инструменты
+
+- Языки: `Python`, немного `SQL`
+- Инструменты: `Git`, `GitHub`, `VS Code`
+- Библиотеки Python: `pandas`, `numpy`, `matplotlib`
+
+---
+
+## 🗂 Некоторые мои проекты
+
+- 🎮 **Console Game** — простая консольная игра на Python 
+- 📊 **Data Analysis Demo** — небольшой проект по анализу данных
+- 💡 **Utils Collection** — разные полезные скрипты
+
+> Когда выложу больше проектов, добавлю сюда ссылки.
+
+---
+
+## 📫 Как со мной связаться
+
+- Email: `dmitriy.634@gmail.com`
+- Telegram: `@padipiczg
+
+
+---
+
+Спасибо, что заглянули на мой профиль! 🙂
